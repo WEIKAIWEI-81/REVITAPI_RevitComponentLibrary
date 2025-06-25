@@ -20,7 +20,9 @@
 ---
 
 ## 📷 ユーザーインターフェース例
-![example_ui](assets/example_ui.png)
+
+![image (4)](https://github.com/user-attachments/assets/4571b9a2-7aba-41a1-90eb-d9b5c48dd9a4)
+
 
 ---
 
@@ -46,12 +48,8 @@
 
 | フォルダ / ファイル名 | 説明 |
 |----------------------|------|
-| `src/Form1.cs`        | メインフォーム（UI、DB接続、Revitファミリ読み込み） |
-| `src/WindowsThumbnailProvider.cs` | サムネイル画像生成ロジック |
-| `assets/`             | UIや出力画面のスクリーンショット |
-| `sample_data/`        | テスト用データセット（公開時用） |
+| `Main.cs`        | メインフォーム（UI、DB接続、Revitファミリ読み込み） |
 | `README_ja.md`        | このREADMEの日本語版 |
-| `LICENSE`             | MITライセンス |
 
 ---
 
@@ -59,7 +57,3 @@
 このプロジェクトは UI 設計・Revit API連携・サムネイル処理・SQLデータ連携・Windowsユーザー模倣など、BIMエンジニアリングとプログラミングを融合した総合開発の実践例です。  
 一人で全工程を開発・設計しました。
 
----
-
-## 📜 ライセンス
-MIT License に基づき公開。自由に使用・改変可能です。
