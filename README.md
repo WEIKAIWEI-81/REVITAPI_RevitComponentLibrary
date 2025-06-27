@@ -47,7 +47,8 @@
 
 | フォルダ / ファイル名 | 説明 |
 |----------------------|------|
-| `Main.cs`        | メインフォーム（UI、DB接続、Revitファミリ読み込み） |
+| `RevitFamilyLibrary.cs`        | メインフォーム（UI、DB接続、Revitファミリ読み込み） |
+| `RevitFamilyupload.cs`        | ファミリーデータのアップロード処理 |
 | `README_ja.md`        | このREADMEの日本語版 |
 
 ---
